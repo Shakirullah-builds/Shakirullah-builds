@@ -4,7 +4,7 @@
 
 I am a software engineer dedicated to architecting high-performance, responsive, and robust mobile applications. My technical focus centers on building offline-first systems, clean state-driven presentation layers, and seamless backend integrations.
 
-- 🛠️ **Current Focus:** Developing **SewSafe** — a local-first, offline-capable project management application optimized for data preservation and security.
+- 🛠️ **Current Focus:** Developing **SewSafe** — a local-first, offline-capable application that helps fashion designers digitally document their customers' measurements without the fear of losing data.
 - 🏗️ **Architecture Philosophy:** Emphasizing Clean Architecture, strict separation of concerns, and reusable component design optimized for senior developer code review cycles.
 - 🤝 **Community Engagement:** Active volunteer and contributor assisting with community event coordination for Google Developer Groups on Campus (GDGoC).
 
@@ -32,13 +32,13 @@ I am a software engineer dedicated to architecting high-performance, responsive,
 - **Architecture:** Clean presentation states optimized for accessibility and strict data security.
 
 ### 🧵 [SewSafe](https://github.com/Shakirullah-builds/sewsafe_mobile)
-*A local-first digital vault built for fashion designers and artisans to digitize client profiles, images, and measurements with bulletproof offline stability.*
+*A local-first digital vault that helps fashion designers digitally document their customers' measurements without the fear of losing data.*
 - **Technical Highlights:** Implemented Riverpod for asynchronous state handling and dynamic form validations. Configured custom URL deep linking (`sewsafe://login`) integrated with Supabase and Resend SMTP servers.
 - **Architecture:** Clean Architecture with robust decoupled layout blocks.
 
 ### 🌾 [Agrilo](https://github.com/Shakirullah-builds/cavista-agrilo-mobile)
-*A native mobile agricultural solution designed to streamline digital workflows and manage complex data inputs.*
-- **Technical Highlights:** Engineered responsive UI layouts, integrated Custom REST APIs for seamless data fetching, and managed complex application states across multiple user flows. 
+*An AI-powered crop disease detection system built as a native mobile agricultural solution.*
+- **Technical Highlights:** Engineered responsive UI layouts and used TensorFlow Lite for handling AI models on-device. Implemented communication between the frontend and backend to deliver AI responses to the user interface, allowing users to seamlessly read and understand the detected diseases. 
 - **Architecture:** Structured deep folder organization built to meet rigorous production-level repository standards.
 
 ---
