@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Shakirullah Omotoso 👋
 
-<!--
-**Shakirullah-builds/Shakirullah-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Mobile Application Developer | Specialist in Flutter & Dart
 
-Here are some ideas to get you started:
+I am a software engineer dedicated to architecting high-performance, responsive, and robust mobile applications. My technical focus centers on building offline-first systems, clean state-driven presentation layers, and seamless backend integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Current Focus:** Developing **SewSafe** — a local-first, offline-capable project management application optimized for data preservation and security.
+- 🏗️ **Architecture Philosophy:** Emphasizing Clean Architecture, strict separation of concerns, and reusable component design optimized for senior developer code review cycles.
+- 🤝 **Community Engagement:** Active volunteer and contributor assisting with community event coordination for Google Developer Groups on Campus (GDGoC).
+
+---
+
+## 🚀 Technical Arsenal
+
+### 💻 Languages & Core Frameworks
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🏗️ State Management & Data Architecture
+- **State Management:** Riverpod (AsyncNotifier, StateNotifier, AsyncValue implementation architectures)
+- **Data Layer & Storage:** Hive, SQLite, local caching mechanisms, and offline-first data sync strategies
+- **Backend & DevOps:** Supabase (Auth configuration, Custom SMTP relays via Resend, custom URL scheme deep linking), Firebase Firestore, Custom REST API Integration.
+
+---
+
+## 🧰 Featured Projects
+
+### 💊 [DoseVault](https://github.com/Shakirullah-builds/dose_vault)
+*A secure, offline-first health companion application designed to manage daily medications, generate PDF history exports, and provide swipe-proof missed dose alerts.*
+- **Technical Highlights:** Implemented robust background notification architecture for offline-first alerts, engineered PDF generation for medical data sharing, and integrated secure, anonymous sync options to protect user privacy.
+- **Architecture:** Clean presentation states optimized for accessibility and strict data security.
+
+### 🧵 [SewSafe](https://github.com/Shakirullah-builds/sewsafe_mobile)
+*A local-first digital vault built for fashion designers and artisans to digitize client profiles, images, and measurements with bulletproof offline stability.*
+- **Technical Highlights:** Implemented Riverpod for asynchronous state handling and dynamic form validations. Configured custom URL deep linking (`sewsafe://login`) integrated with Supabase and Resend SMTP servers.
+- **Architecture:** Clean Architecture with robust decoupled layout blocks.
+
+### 🌾 [Agrilo](https://github.com/Shakirullah-builds/cavista-agrilo-mobile)
+*A native mobile agricultural solution designed to streamline digital workflows and manage complex data inputs.*
+- **Technical Highlights:** Engineered responsive UI layouts, integrated Custom REST APIs for seamless data fetching, and managed complex application states across multiple user flows. 
+- **Architecture:** Structured deep folder organization built to meet rigorous production-level repository standards.
+
+---
+
+## 📊 GitHub Performance Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakirullah-builds&show_icons=true&theme=tokyonight&count_private=true" alt="Shakirullah's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakirullah-builds&theme=tokyonight" alt="Shakirullah's Streak Stats" height="180px"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** [/in/shakirullah-omotoso](https://www.linkedin.com/in/shakirullah-omotoso-7a8846347)
+- 📧 **Email:** [saotech.dev@gmail.com](mailto:saotech.dev@gmail.com)
