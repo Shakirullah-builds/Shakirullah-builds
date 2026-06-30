@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%">
+</p>
+
 # Hi there, I'm Shakirullah Omotoso 👋
 
 ### 📱 Mobile Application Developer | Specialist in Flutter & Dart
