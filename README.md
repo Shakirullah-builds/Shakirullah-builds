@@ -130,7 +130,7 @@ Offline-first digital measurement vault for fashion designers.
 
 🔗 Repository
 
-https://github.com/Shakirullah-builds/sewsafe_mobile
+https://github.com/Shakirullah-builds/sewsafe-mobile
 
 ---
 
@@ -172,15 +172,13 @@ https://github.com/Shakirullah25/Climatrack-A-weather-app-
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shakirullah-builds&show_icons=true&theme=tokyonight&count_private=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=Shakirullah-builds&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakirullah-builds&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shakirullah-builds&show_icons=true&theme=tokyonight" />
 
 </p>
 
